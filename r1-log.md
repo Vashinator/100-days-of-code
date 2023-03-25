@@ -23,3 +23,8 @@ https://twitter.com/Vashinator7/status/1638513919122612224
 ### R1D5
 Finished up initial CSS basics. Started learning a bit about media queries. Though I want to find something more intereactive to do. So will be doing some of the Free code camp stuff tomorrow.
 https://twitter.com/Vashinator7/status/1639079657759731712
+
+### R1D6
+Worked on HTML certification from Free Code Camp
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+Repo: https://github.com/Vashinator/fcc-survey-form
