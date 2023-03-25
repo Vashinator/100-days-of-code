@@ -5,6 +5,21 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Reviewed the basics of HTML
+https://twitter.com/Vashinator7/status/1637623905668956160
 
 ### R1D2
+Started refresh of CSS
+https://twitter.com/Vashinator7/status/1637988444738560004
+
+### R1D3
+Continued CSS basics
+https://twitter.com/Vashinator7/status/1638152436241031170
+
+### R1D4
+More CSS Basics
+https://twitter.com/Vashinator7/status/1638513919122612224
+
+### R1D5
+Finished up initial CSS basics. Started learning a bit about media queries. Though I want to find something more intereactive to do. So will be doing some of the Free code camp stuff tomorrow.
+https://twitter.com/Vashinator7/status/1639079657759731712
