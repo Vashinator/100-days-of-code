@@ -28,3 +28,6 @@ https://twitter.com/Vashinator7/status/1639079657759731712
 Worked on HTML certification from Free Code Camp
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
 Repo: https://github.com/Vashinator/fcc-survey-form
+
+### R1D7
+Made solid progress on the next portion of the Free Code Camp CSS section. This one is all about typography. I am hoping to finish this first thing in the morning.
