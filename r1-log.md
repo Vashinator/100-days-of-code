@@ -34,3 +34,7 @@ Made solid progress on the next portion of the Free Code Camp CSS section. This 
 
 ## R1D8
 Completed the Free Code Camp Nutrition Label to better understand typography.
+
+## R1D9
+Made good progress on the HTML accessibility project by building out a short quiz.
+https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz
