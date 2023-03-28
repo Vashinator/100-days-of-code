@@ -31,3 +31,6 @@ Repo: https://github.com/Vashinator/fcc-survey-form
 
 ### R1D7
 Made solid progress on the next portion of the Free Code Camp CSS section. This one is all about typography. I am hoping to finish this first thing in the morning.
+
+## R1D8
+Completed the Free Code Camp Nutrition Label to better understand typography.
