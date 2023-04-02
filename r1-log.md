@@ -38,3 +38,15 @@ Completed the Free Code Camp Nutrition Label to better understand typography.
 ## R1D9
 Made good progress on the HTML accessibility project by building out a short quiz.
 https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz
+
+## R1D10
+https://twitter.com/Vashinator7/status/1641261680909774849
+
+## R1D11
+https://twitter.com/Vashinator7/status/1641739555429556224
+
+## R1D12
+https://twitter.com/Vashinator7/status/1642004720293236736
+
+## R1D13 
+I managed to complete a couple of sections on Free Code camp. Somethings are definitely clicking others, I still need to work on.
